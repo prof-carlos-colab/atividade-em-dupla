@@ -1,5 +1,4 @@
 print("Anderson")
 
+print("Continuando o projeto.")
 
-
-print("fim do projeto.")
