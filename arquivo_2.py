@@ -1,4 +1,4 @@
 print("Anderson")
 
-print("Continuando o projeto.")
+print("Continuando o projeto...")
 
